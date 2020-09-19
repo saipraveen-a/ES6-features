@@ -14,3 +14,5 @@ array-includes/node_modules
 array-includes/dist
 let-const/node_modules
 let-const/dist
+import-export/node_modules
+import-export/dist
