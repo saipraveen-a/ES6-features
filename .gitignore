@@ -6,3 +6,5 @@ spread-operator/node_modules
 spread-operator/dist
 rest-operator/node_modules
 rest-operator/dist
+arrow-functions/node_modules
+arrow-functions/dist
