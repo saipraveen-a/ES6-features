@@ -18,3 +18,5 @@ import-export/node_modules
 import-export/dist
 padStart-padEnd/node_modules
 padStart-padEnd/dist
+classes/node_modules
+classes/dist
