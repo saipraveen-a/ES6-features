@@ -16,3 +16,16 @@ export class Animal {
         return 10;
     }
 }
+
+export class Cat extends Animal {
+    constructor(type, legs, tail) {
+        super(type, legs);
+        this.tail = tail;
+    }
+
+    // Overriding the makeNoise method. This is achieved through Prototypal Inheritance. When using extends, the Animal object will be set
+    // as the Prototype (__proto__ object in chrome) of the object created using the Cat class.
+    makeNoise(sound = "meow") {
+        console.log(sound);
+    }
+}
