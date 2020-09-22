@@ -20,3 +20,5 @@ padStart-padEnd/node_modules
 padStart-padEnd/dist
 classes/node_modules
 classes/dist
+promises/node_modules
+promises/dist
