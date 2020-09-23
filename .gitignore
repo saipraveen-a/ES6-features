@@ -22,3 +22,5 @@ classes/node_modules
 classes/dist
 promises/node_modules
 promises/dist
+fetch/node_modules
+fetch/dist
